@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2023年04月27日更新)
-[](https://www.wpxtool.com/p/readme/)
+[四款最新AI产品](https://www.wpxtool.com/p/20230427-new-4-ai/)
 
 ---end---
 
