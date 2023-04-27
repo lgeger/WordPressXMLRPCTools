@@ -4,6 +4,8 @@
 ## 目录(2023年04月27日更新)
 [四款最新AI产品](https://www.wpxtool.com/p/20230427-new-4-ai/)
 
+[如何更好的使用chatGPT-提示词优化](https://www.wpxtool.com/p/20230427-how-to-use-chatgpt/)
+
 ---end---
 
 
