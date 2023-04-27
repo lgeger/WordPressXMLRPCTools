@@ -4,9 +4,7 @@
 ## 目录(2023年04月13日更新)
 
 
-[建立个人独立博客有什么好处?](https://fangyuanxiaozhan.com/p/2020-01-18-blog/)
 
-[zhaoolee的Github主页](https://fangyuanxiaozhan.com/p/2020-01-17-zhaoolee/)
 
 ---end---
 
@@ -43,17 +41,6 @@
 
 
 
-### 如何实现WordPress登录授权？
-
-WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新标准，允许用户以POST方式自动对文章内容进行增删改查。授权方式为 用户名 和 密码, 在WordPress中是后台登录的账户名和密码
-
-我的WordPress网站为 [https://fangyuanxiaozhan.com](https://fangyuanxiaozhan.com) 
-
-![image-20210119180338929](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033711jFFFRE3D.png)
-
-它的xmlrpc服务地址为  [https://fangyuanxiaozhan.com/xmlrpc.php](https://fangyuanxiaozhan.com/xmlrpc.php)
-
-![image-20210119180403270](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033808cFthmwwi.png)
 
 
 
