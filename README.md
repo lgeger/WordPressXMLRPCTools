@@ -1,7 +1,9 @@
 # 小站Github仓库
 
 ---start---
-## 目录(2023年04月27日更新)
+## 目录(2023年05月23日更新)
+[](https://www.wpxtool.com/p/20230523-some-new-prompt/)
+
 [四款最新AI产品](https://www.wpxtool.com/p/20230427-new-4-ai/)
 
 [如何更好的使用chatGPT-提示词优化](https://www.wpxtool.com/p/20230427-how-to-use-chatgpt/)
