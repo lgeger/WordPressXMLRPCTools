@@ -2,7 +2,7 @@
 
 ---start---
 ## 目录(2023年09月10日更新)
-[](https://www.wpxtool.com/p/20230910-claude-slack-huifu/)
+[claude不回复如何解决](https://www.wpxtool.com/p/20230910-claude-slack-huifu/)
 
 [一些chatGPT相关的杂七杂八](https://www.wpxtool.com/p/20230523-some-new-prompt/)
 
