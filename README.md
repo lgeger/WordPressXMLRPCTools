@@ -1,7 +1,9 @@
 # 小站Github仓库
 
 ---start---
-## 目录(2023年05月23日更新)
+## 目录(2023年09月10日更新)
+[](https://www.wpxtool.com/p/20230910-claude-slack-huifu/)
+
 [一些chatGPT相关的杂七杂八](https://www.wpxtool.com/p/20230523-some-new-prompt/)
 
 [四款最新AI产品](https://www.wpxtool.com/p/20230427-new-4-ai/)
