@@ -1,5 +1,5 @@
 ---
-title: 【工具简介】Taxy AI: 基于 GPT-4 的浏览器全自动插件
+title: Taxy AI:基于 GPT-4 的浏览器全自动插件
 tags: 
 - ai
 categories:
