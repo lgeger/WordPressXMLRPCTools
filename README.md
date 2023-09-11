@@ -1,7 +1,9 @@
 # 小站Github仓库
 
 ---start---
-## 目录(2023年09月10日更新)
+## 目录(2023年09月11日更新)
+[Taxy AI:基于 GPT-4 的浏览器全自动插件](https://www.wpxtool.com/p/20230911-taxyai-interduce/)
+
 [claude不回复如何解决](https://www.wpxtool.com/p/20230910-claude-slack-huifu/)
 
 [一些chatGPT相关的杂七杂八](https://www.wpxtool.com/p/20230523-some-new-prompt/)
