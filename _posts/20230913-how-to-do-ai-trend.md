@@ -132,4 +132,4 @@ Casas Bahia
 Lu do Magalu
 Nobody Sausage
 Hatsune Miku
-We have explained some of the best text-to-text or text-to-video AI tools, like Meta’s Galactica AI, Notion AI, Make-A-Video, Chai App, AI Dungeon, MOVIO AI, and NovelAI. Do you know there are also AI art robots? Check the Ai-Da.
+We have explained some of the best text-to-text or text-to-video AI tools, like Meta’s Galactica AI, Notion AI, Make-A-Video, Chai App, AI Dungeon, MOVIO AI, and NovelAI. Do you know there are also AI art robots? Check the Ai-Da. 
