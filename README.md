@@ -4,6 +4,8 @@
 ## 目录(2023年09月13日更新)
 [how to do the ai trend,AI art has taken over the social media](https://www.wpxtool.com/p/20230913-how-to-do-ai-trend/)
 
+[How to find trending audio on instagram](https://www.wpxtool.com/p/20230913-how to find trending audio on instagram/)
+
 [Taxy AI:基于 GPT-4 的浏览器全自动插件](https://www.wpxtool.com/p/20230911-taxyai-interduce/)
 
 [claude不回复如何解决](https://www.wpxtool.com/p/20230910-claude-slack-huifu/)
